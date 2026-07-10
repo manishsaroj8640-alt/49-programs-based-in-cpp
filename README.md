@@ -1,0 +1,1 @@
+This repository contains 49 beginner-friendly C++ programs designed to help students and learners build a strong foundation in programming. Each program focuses on a fundamental concept, ranging from simple input/output to loops, functions, arrays, and object-oriented programming.
