@@ -5,7 +5,7 @@ int add(int num1,int num2)
     return num1 + num2;
 }
 void greet(){
-    cout<<"hello from the greet function:/n"<<endl;
+    cout<<"hello from the greet function:\n"<<endl;
     }
     int main()
         
