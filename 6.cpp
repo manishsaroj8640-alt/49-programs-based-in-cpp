@@ -4,7 +4,7 @@ using namespace std;
  int main()
  {
     int fourdigitnumber;
-cout<< "enter four digit numbers";
+cout<< "enter four digit numbers"<<endl;
 cin>> fourdigitnumber;
 int first_digit = fourdigitnumber/1000;
 int last_digit = fourdigitnumber%10;
